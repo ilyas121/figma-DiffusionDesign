@@ -5,6 +5,10 @@ Things are in the middle of moving to tailwind.css
 
 How to test plugin:
 --------------------------------------
+- Sign Up for [BananaML](https://www.banana.dev/)
+- Deploy the 1-click model for stable diffusion 
+- Copy model key for that into the first model in txt2img.tsx
+
 Run in shell: (yes to the duplicates, I messed up, will fix later)
 
 - npm install 
